@@ -88,11 +88,12 @@ A menor unidade de comprimento é a 'she' (grão de cevada), de cerca de 1/360 m
 
 </table>
 
-[length conversion calculator](http://it.stlawu.edu/~dmelvill/mesomath/calculator/lengthh.html)
 
-### Area
+### Área
 
-The basic area unit is the sar, an area of 1 sq. nindan, or about 36 sq. m. The area she and gin are used as generalized fractions of this basic unit.
+A unidade básica de área é o `sar`, uma área de 1 m² nindan ou cerca de 36 m². A área em que `she` e o `gin` são usados como frações generalizadas dessa unidade básica.
+
+> Como podemos ver abaixo 1 sar = 60 gin e 1 gin = 180 she, se correlacionarmos com a medida atual do metro "poderíamos" pensar no gin como os centímetros e o she como milímetros, mas apenas para contextualização.
 
 <table width="60%">
 
@@ -162,7 +163,8 @@ The basic area unit is the sar, an area of 1 sq. nindan, or about 36 sq. m. The 
 
 </table>
 
-1 bur is an area 1 _beru_ long by 1 nindan wide. [area conversion calculator](http://it.stlawu.edu/~dmelvill/mesomath/calculator/areah.html)
+1 bur is an area 1 _beru_ long by 1 nindan wide. 
+
 
 ### Volume
 
@@ -232,7 +234,7 @@ Capacity: used for measuring volumes of grain, oil, beer, etc. The basic unit is
 
 </table>
 
-[volume conversion calculator](http://it.stlawu.edu/~dmelvill/mesomath/calculator/volumeh.html)
+
 
 ### Weight
 
