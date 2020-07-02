@@ -1,14 +1,14 @@
-# Old Babylonian Weights and Measures
+# Antigos pesos e medidas babilônicas
 
-The metrology of ancient Mesopotamia is very complicated, but key to understanding much of the mathematics as units are often silently converted in the middle of a problem. Units of length, weight, area, capacity and so on and the relationships between them changed frequently in both space and time. However, by the Old Babylonian period, the systems were much simpler than during the [Sumerian](http://it.stlawu.edu/~dmelvill/mesomath/sumerian.html) period. For the large bulk of mathematical problem texts, there is a relatively standardized set of measurements, although there are plenty of exceptions. The tables below give the main units in this standard set, but are by no means comprehensive. For up-to-date and detailed references on the different systems, see the articles by Marvin Powell in [RLA](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell87) and _[Civilizations of the Ancient Near East](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell95)_.
+A metrologia da Mesopotâmia antiga é muito complicada, mas é fundamental para entender grande parte da matemática, pois as unidades são frequentemente convertidas silenciosamente no meio de um problema. Unidades de comprimento, peso, área, capacidade e assim por diante, e as relações entre elas mudavam frequentemente no espaço e no tempo. No entanto, no período da Babilônia Antiga, os sistemas eram muito mais simples do que durante o [período sumério](http://it.stlawu.edu/~dmelvill/mesomath/sumerian.html). Para a grande maioria dos textos de problemas matemáticos, há um conjunto de medidas relativamente padronizado, embora haja muitas exceções. As tabelas abaixo fornecem as principais unidades deste conjunto de padrões, mas não são de forma alguma abrangentes. Para referências atualizadas e detalhadas sobre os diferentes sistemas, consulte os artigos de Marvin Powell em [RLA](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell87) e [Civilizações do Antigo Oriente](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell95).
 
-Even in the Old Babylonian times, metrology had a rich collection of units. Most of the conversion factors are simple fractions or multiples of the base 60\. Key units are the kush (cubit) for length, sar (garden-plot) for area and volume, sila for capacity and mana for weight. At the base of the system is the barleycorn, she, used for the smallest unit in length, area, volume and weight.
+Mesmo nos velhos tempos da Babilônia, a metrologia possuía uma rica coleção de unidades. A maioria dos fatores de conversão são frações simples ou múltiplos da base 60. As principais unidades são kush (côvado) para comprimento, sar (horta) para área e volume, sila para capacidade e mana para peso. Na base do sistema está o grão de cevada, sendo usada para a menor unidade de comprimento, área, volume e peso.
 
-Akkadian made use of a letter š called a shin, pronounced as 'sh'. The barleycorn is a 'še', pronounced 'shay' and which we shall write as 'she.'
+Akkadian fez uso de uma letra š chamada shin, pronunciada como 'sh'. O grão de cevada é um 'še', pronunciado 'shay' e que escreveremos como 'she'.
 
-### Length
+### Comprimento
 
-Smallest unit of length is the she (barleycorn), of about 1/360 meter.
+A menor unidade de comprimento é a 'she' (grão de cevada), de cerca de 1/360 metros.
 
 <table width="55%">
 
