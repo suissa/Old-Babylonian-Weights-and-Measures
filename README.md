@@ -13,11 +13,11 @@ A metrologia da Mesopotâmia antiga é muito complicada, mas é fundamental para
 
 Mesmo nos velhos tempos da Babilônia, a metrologia possuía uma rica coleção de unidades. A maioria dos fatores de conversão são frações simples ou múltiplos da base 60. As principais unidades são kush (côvado) para comprimento, sar (horta) para área e volume, sila para capacidade e mana para peso. Na base do sistema está o grão de cevada, sendo usada para a menor unidade de comprimento, área, volume e peso.
 
-Akkadian fez uso de uma letra š chamada shin, pronunciada como 'sh'. O grão de cevada é um 'še', pronunciado 'shay' e que escreveremos como 'she'.
+Akkadian fez uso de uma letra š chamada shin, pronunciada como `sh`. O grão de cevada é um `še`, pronunciado `shay` e que escreveremos como `she`.
 
 ### Comprimento
 
-A menor unidade de comprimento é a 'she' (grão de cevada), de cerca de 1/360 metros.
+A menor unidade de comprimento é a 'she' (grão de cevada), de cerca de `1/360 metros`.
 
 <table width="55%">
 
@@ -100,7 +100,7 @@ A menor unidade de comprimento é a 'she' (grão de cevada), de cerca de 1/360 m
 
 ### Área
 
-A unidade básica de área é o `sar`, uma área de 1 m² nindan ou cerca de 36 m². A área em que `she` e o `gin` são usados como frações generalizadas dessa unidade básica.
+A unidade básica de área é o `sar`, uma área de `1m² nindan` ou cerca de `36m²`. A área em que `she` e o `gin` são usados como frações generalizadas dessa unidade básica.
 
 > Como podemos ver abaixo 1 sar = 60 gin e 1 gin = 180 she, se correlacionarmos com a medida atual do metro "poderíamos" pensar no gin como os centímetros e o she como milímetros, mas apenas para contextualização.
 
