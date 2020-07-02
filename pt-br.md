@@ -1,5 +1,7 @@
 # Antigos pesos e medidas babilônicas
 
+![babylon](./logo.jpeg)
+
 A metrologia da Mesopotâmia antiga é muito complicada, mas é fundamental para entender grande parte da matemática, pois as unidades são frequentemente convertidas silenciosamente no meio de um problema. Unidades de comprimento, peso, área, capacidade e assim por diante, e as relações entre elas mudavam frequentemente no espaço e no tempo. No entanto, no período da Babilônia Antiga, os sistemas eram muito mais simples do que durante o [período sumério](http://it.stlawu.edu/~dmelvill/mesomath/sumerian.html). Para a grande maioria dos textos de problemas matemáticos, há um conjunto de medidas relativamente padronizado, embora haja muitas exceções. As tabelas abaixo fornecem as principais unidades deste conjunto de padrões, mas não são de forma alguma abrangentes. Para referências atualizadas e detalhadas sobre os diferentes sistemas, consulte os artigos de Marvin Powell em [RLA](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell87) e [Civilizações do Antigo Oriente](http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#Powell95).
 
 Mesmo nos velhos tempos da Babilônia, a metrologia possuía uma rica coleção de unidades. A maioria dos fatores de conversão são frações simples ou múltiplos da base 60. As principais unidades são kush (côvado) para comprimento, sar (horta) para área e volume, sila para capacidade e mana para peso. Na base do sistema está o grão de cevada, sendo usada para a menor unidade de comprimento, área, volume e peso.
